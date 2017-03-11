@@ -1,0 +1,4 @@
+Jan Ogorek 200000000021 0
+Katarzyna Marchewka 111111111111 200
+jerzy kapusta 123456789012 10000 
+krzysztof Krzys 000000000000 249
